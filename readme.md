@@ -1,8 +1,8 @@
 # Atomic Blast
 
-![Atomic Blast](https://ibb.co.com/hJPWp0TM "Atomic Blast")
+![Atomic Blast](https://i.ibb.co.com/Q32Ns0xc/IMG-3020-thumb.jpg "Atomic Blast")
 
-![Atomic Blast Back](https://ibb.co.com/JRj80Gxp "Atomic Blast Back")
+![Atomic Blast Back](https://i.ibb.co.com/bg5YqCHv/IMG-2990-thumb.jpg "Atomic Blast Back")
 
 *A short description of the keyboard/project*
 
