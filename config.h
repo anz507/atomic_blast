@@ -1,0 +1,17 @@
+// Planck RP2040 QMK Firmware
+
+#pragma once
+
+#define LED_CAPS_LOCK_PIN GP29
+
+// Encoder support
+#define ENCODER_SWITCH_PIN GP28
+#define ENCODER_RESOLUTION 4
+
+// RGB LED support
+#define WS2812_DI_PIN GP23
+#define RGBLED_NUM 12
+#define RGBLIGHT_HUE_STEP 10
+#define RGBLIGHT_SAT_STEP 17
+#define RGBLIGHT_VAL_STEP 17
+#define RGBLIGHT_EFFECT_BREATHING
