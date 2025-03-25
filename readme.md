@@ -1,5 +1,7 @@
 # Atomic Blast
 
+A.T.O.M.I.C  B.L.A.S.T v2: Accelerated Typing Optimized for Mechanical Input Control - Better Layout for Accurate Speedy Typing
+
 ![Atomic Blast](https://anz507.sirv.com/Images/IMG_3020_thumb.jpg)
 
 ![Atomic Blast Back](https://anz507.sirv.com/Images/IMG_2990_thumb.jpg)
