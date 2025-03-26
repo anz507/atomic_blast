@@ -6,6 +6,8 @@ A.T.O.M.I.C  B.L.A.S.T v2: Accelerated Typing Optimized for Mechanical Input Con
 
 ![Atomic Blast Back](https://anz507.sirv.com/Images/IMG_2990_thumb.jpg)
 
+![Atomic Blast Back](https://anz507.sirv.com/Images/wiring.jpg)
+
 *A short description of the keyboard/project*
 
 An ortholinear keyboard with planck like keymaps with extra gimmicks.
